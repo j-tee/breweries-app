@@ -2,7 +2,7 @@
 /* eslint-disable react/jsx-key */
 import { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { getStations } from '../redux/stocks/stationSlice';
+import { getStations } from '../redux/station/stationSlice';
 import Station from './Station';
 
 const baseUrl = 'https://api.powderlin.es/stations';
