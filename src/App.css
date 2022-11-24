@@ -67,6 +67,11 @@
   background-color: #ce4177
 }
 
+.station .geo {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
 .icons {
   margin-top: auto;
   color: white;

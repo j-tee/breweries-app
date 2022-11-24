@@ -27,6 +27,8 @@ const Home = () => {
             <Brewery
               name={item.name}
               city={item.city}
+              longitude={item.longitude}
+              latitude={item.latitude}
             />
           </div>
         ))}
