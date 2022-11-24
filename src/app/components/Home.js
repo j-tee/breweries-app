@@ -1,4 +1,3 @@
-/* eslint-disable no-console */
 /* eslint-disable react/jsx-key */
 import { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';

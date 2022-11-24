@@ -1,46 +1,75 @@
-# Getting Started with Create React App and Redux
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# Capstone Project - List of Breweries in the USA
 
-## Available Scripts
+In this task, I worked with the real live data from the openbrewerydb.org. I built a web application that allow uses to see the list of breweries and their locations.
 
-In the project directory, you can run:
 
-### `npm start`
+ ## Learning objectives
+- Use React documentation.
+- Use React components.
+- Use React props.
+- Use React Router.
+- Connect React and Redux.
+- Handle events in a React app.
+- Write unit tests with React - Testing Library.
+- Use styles in a React app.
+- Use React life cycle methods.
+- Apply React best practices and language style guides in code.
+- Use store, actions and reducers in React.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Built With
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- CSS, JavaScript, React, Redux
+- Gitflow
+- npm
+- babel
+- webpack-dev-server
+- duck pattern
+- API
 
-### `npm test`
+## Live Demo
+> Check the [Live Demo](https://okechukwu-muokwugwo.github.io/react-redux-group-project/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Getting Started
 
-### `npm run build`
+### To launch the project locally:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Step 1:
+- Clone this repository in your local machine terminal:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+git clone <code>https://github.com/Okechukwu-muokwugwo/react-redux-group-project.git</code>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Step 2:
 
-### `npm run eject`
+- Open with <code>npm start</code> on a terminal.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Authors
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+👤 Okechukwu Muokwugwo
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- GitHub: [GitHub](https://github.com/Okechukwu-muokwugwo)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/okeimuokwugwo/)
+- Twitter: [Twitter](https://twitter.com/excel4eva)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+👤 Tetteh Julius
 
-## Learn More
+- GitHub: [GitHub](https://github.com/j-tee)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/julius-tetteh-0121ab7b/)
+- Twitter: [Twitter](https://twitter.com/JuliusTee)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+## 📝 License
+
+This project is [MIT](https://github.com/Okechukwu-muokwugwo/react-redux-group-project/blob/space-traveler-setup/LICENSE.md) licensed.
