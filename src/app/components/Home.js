@@ -2,10 +2,10 @@
 /* eslint-disable react/jsx-key */
 import { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { getStations } from '../redux/station/stationSlice';
-import Station from './Station';
+import { getBreweries } from '../redux/brewery/brewerySlice';
+import Brewery from './Brewery';
 
-const baseUrl = 'https://api.powderlin.es/stations';
+const baseUrl = 'https://api.openbrewerydb.org/breweries';
 const paramObj = {};
 const dataObj = {
   dataParams: paramObj,
@@ -14,22 +14,20 @@ const dataObj = {
 };
 
 const Home = () => {
-  const stations = useSelector((state) => state.stations.stations);
+  const breweries = useSelector((state) => state.breweries.breweries);
   const dispatch = useDispatch();
   useEffect(() => {
-    if (!stations.length) dispatch(getStations(dataObj));
+    if (!breweries.length) dispatch(getBreweries(dataObj));
     // eslint-disable-next-line
       }, []);
   return (
     <>
       <div className="wrapper">
-        {stations.map((item) => (
-          <div className="box" key={item.name}>
-            <Station
+        {breweries.map((item) => (
+          <div className="box" key={item.id}>
+            <Brewery
               name={item.name}
-              timezone={item.timezone}
-              triplet={item.triplet}
-              wind={item.wind}
+              city={item.city}
             />
           </div>
         ))}

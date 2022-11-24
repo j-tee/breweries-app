@@ -2,6 +2,93 @@
 
 #root {
   margin: 0;
+  padding: 0;
+}
+
+.location {
+  display: grid;
+  grid-auto-rows: 1fr;
+  height: calc(100vh - 10px);
+  background-color: #fd5294;
+}
+
+.my-app {
+  padding: 0;
+}
+
+.location div {
+  padding: 0.5rem;
+  vertical-align: center;
+  display: flex;
+  color: #f8e5ec;
+  font-size: 2rem;
+  font-weight: 500;
+  justify-content: space-between;
+}
+
+.location div:nth-child(odd) {
+  background: #ce4177
+}
+.location div:nth-child(even) {
+  background: #e84a88
+}
+
+.fill-title {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+}
+ .fill-title p {
+  font-size: 1.3rem;
+ }
+
+.station {
+  display: flex;
+  flex-direction: column;
+  margin: auto auto;
+}
+
+.sub-title {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.name-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.location div span {
+  margin: auto 0;
+}
+
+.icons {
+  margin-top: auto;
+  color: white;
+  font-size: 2rem;
+}
+
+.mic {
+  margin-right: 0.5rem;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.links {
+  text-decoration: none;
+  color: white;
+}
+
+.fill {
+  width: 100%;
+  height: 100%;
+}
+
+.fill span {
+  font-size: 1.5rem;
 }
 
 .wrapper {
@@ -11,6 +98,7 @@
   grid-auto-rows: 1fr;
   border: 0;
   padding: 0;
+  background-color: #ec4c8b;
 }
 
 nav {

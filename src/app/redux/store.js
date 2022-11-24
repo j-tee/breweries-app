@@ -1,9 +1,9 @@
 import { configureStore } from '@reduxjs/toolkit';
-import stationReducer from './station/stationSlice';
+import stationReducer from './brewery/brewerySlice';
 
 const store = configureStore({
   reducer: {
-    stations: stationReducer,
+    breweries: stationReducer,
   },
 });
 
