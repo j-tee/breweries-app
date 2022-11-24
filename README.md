@@ -29,7 +29,7 @@ In this task, I worked with the real live data from the openbrewerydb.org. I bui
 - API
 
 ## Live Demo
-> Check the [Live Demo](https://okechukwu-muokwugwo.github.io/react-redux-group-project/)
+> Check the [Live Demo](https://j-tee.github.io/breweries-app/)
 
 # Getting Started
 
@@ -38,7 +38,7 @@ In this task, I worked with the real live data from the openbrewerydb.org. I bui
 #### Step 1:
 - Clone this repository in your local machine terminal:
 
-git clone <code>https://github.com/Okechukwu-muokwugwo/react-redux-group-project.git</code>
+git clone <code>https://j-tee.github.io/breweries-app.git</code>
 
 #### Step 2:
 
@@ -46,16 +46,10 @@ git clone <code>https://github.com/Okechukwu-muokwugwo/react-redux-group-project
 
 ## Authors
 
-👤 Okechukwu Muokwugwo
-
-- GitHub: [GitHub](https://github.com/Okechukwu-muokwugwo)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/okeimuokwugwo/)
-- Twitter: [Twitter](https://twitter.com/excel4eva)
-
 👤 Tetteh Julius
 
 - GitHub: [GitHub](https://github.com/j-tee)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/julius-tetteh-0121ab7b/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/julius-tetteh)
 - Twitter: [Twitter](https://twitter.com/JuliusTee)
 
 
@@ -69,7 +63,7 @@ Contributions, issues and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+Thanks to Nelson Sakwa whose design template was used in this project
 
 ## 📝 License
 
-This project is [MIT](https://github.com/Okechukwu-muokwugwo/react-redux-group-project/blob/space-traveler-setup/LICENSE.md) licensed.
