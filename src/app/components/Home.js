@@ -21,6 +21,9 @@ const Home = () => {
       }, []);
   return (
     <>
+      <div className="title-text">
+        <p>List of Breweries in The USA</p>
+      </div>
       <div className="wrapper">
         {breweries.map((item) => (
           <div className="box" key={item.id}>

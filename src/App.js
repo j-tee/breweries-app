@@ -7,7 +7,7 @@ import BreweryDetails from './app/components/BreweryDetails';
 
 function App() {
   return (
-    <div className="container-fluid my-app">
+    <div className="my-app">
       <header className="App-header">
         <Navbar />
         <Routes>

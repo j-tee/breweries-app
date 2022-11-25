@@ -12,7 +12,7 @@ const Navbar = () => {
     navigate(-1);
   };
   return (
-    <nav className="container-fluid">
+    <nav>
       <button className="nav-button" onClick={goBackHandler}>&lt;</button>
       <div className="icons">
         <span className="mic">
