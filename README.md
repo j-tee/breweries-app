@@ -95,7 +95,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://coruscating-taiyaki-9317ba.netlify.app/)
+- [Live Demo Link](https://sweet-starship-bccb39.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,11 +148,11 @@ npm run build
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Murithi Vitalis Muitwiri**
+👤 **Tetteh Julius**
 
-- GitHub: [@svitalis123](https://github.com/svitalis123)
-- Twitter: [@wilsonvitalis](https://twitter.com/WilsonVitalis)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/vitalismutwiri)
+- GitHub: [@svitalis123](https://github.com/j-tee)
+- Twitter: [@wilsonvitalis](https://twitter.com/JuliusTee)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/julius-tetteh)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -161,7 +161,7 @@ npm run build
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[New Cryptocurrency on each country]**
+- [ ] **[Google map location]**
 - [ ] **[Login feature]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -189,7 +189,7 @@ If you like this project create an issue with your comments.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - I would like to thank [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio) for inspiring the design. 
-- [Rest Countries](https://restcountries.com/) for the API
+- [Free and open-source brewery data](https://api.openbrewerydb.org) for the API
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
